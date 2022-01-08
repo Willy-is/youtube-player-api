@@ -1,6 +1,6 @@
 # YouTube Player App
 
-This project is about getting an API key from YouTube Player. Java was used to create simple UIs and two main activities in order to get the URL and to play it in the different screen.
+This project is the assessment done at university, which is about getting an API key from YouTube Player. Java was used to create simple UIs and two main activities in order to get the URL and to play it in the different screen.
 
 ## Wireframe
 
